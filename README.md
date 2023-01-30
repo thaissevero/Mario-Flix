@@ -1,5 +1,5 @@
 ## Mario-Flix
-👨‍🔧 Site do filme do Super Mario Bros desenvolvido durante o evento "Do Zero ao Programador" do Dev Em Dobro.
+👨‍🔧 Site do filme do Super Mario Bros desenvolvido durante o evento "Do Zero ao Programador Contratado" do Dev Em Dobro.
 
 ## 💻 Ferramentas e Linguagens usadas
 - CSS
